@@ -4,12 +4,15 @@
 <!--
 -->
 
-<img align="right" width=200px alt="Unicorn" src="https://tenor.com/KAMc.gif" />
+<img align="right" alt="Unicorn" src="https://tenor.com/KAMc.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hello, my name is Duvan Garzón. Teacher in humanities and Spanish language, hey! But don't let it disconcert you, my philosophy is governed by constant learning and the development of skills that delve into the language, from all its complexity. Proof of this is that I am preparing myself autonomously in programming languages ​​and code automation..
+Hello, my name is Duvan Garzón. Teacher in humanities and Spanish language, hey! But don't let it disconcert you,
+my philosophy is governed by constant learning and the development of skills that delve into the language, 
+from all its complexity. Proof of this is that I am preparing myself autonomously in programming languages ​​and code automation..
 * **I am focused in AWS, JAVA AND QUALITY CONTROL**
+  
 - 🌱 I’m currently learning ...
   - Java
   - QA
