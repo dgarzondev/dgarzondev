@@ -4,7 +4,7 @@
 <!--
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/KAMc.gif" />
+<img align="right" width=200px alt="Unicorn" src="https://tenor.com/KAMc.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -13,7 +13,7 @@ Hello, my name is Duvan Garzón. Teacher in humanities and Spanish language, hey
 - 🌱 I’m currently learning ...
   - Java
   - QA
-- 👯 I’m looking forward to collaborate on open source projects.
+- 😁 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love to read novels, 👽 I am Salvador's father, a babyloper, 🎵 listen to comedy podcast
 
 __Check out my GitHub repository:__
@@ -21,10 +21,10 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/dgarzondev/qualitycontrol">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dgarzondev-hash&repo=qualitycontrol" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/dgarzondev/devops-aws">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dgarzondev-hash&repo=devops-aws" alt="GitHub Stats" />
     </a>
   </p>
 </div>
